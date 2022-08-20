@@ -7,7 +7,7 @@ public class Atm {
 		String userPassword="123";
 		float withdrawAmt=600;
 		
-		if(userPassword=="000")
+		if(userPassword=="123")
 		{
 		if(withdrawAmt>amt)
 		{
