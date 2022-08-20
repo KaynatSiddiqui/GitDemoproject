@@ -14,6 +14,10 @@ public class MainClass {
 		{
 			System.out.println("Chill bro");
 		}
+		
+		int a=90;
+		int b=50;
+		System.out.println(a+b);
 	}
 	
 }
